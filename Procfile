@@ -1,1 +1,1 @@
-web: bin/kontramarka_bot
+web: kontramarka_bot
