@@ -8,6 +8,7 @@ import (
 )
 
 func main() {
+
 	botToken := os.Getenv("TOKEN")
 
 	bot, err := telego.NewBot(botToken, telego.WithDefaultLogger(true, true))
