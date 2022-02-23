@@ -23,7 +23,7 @@ func main() {
 
 	// Receive information about webhook
 	info, _ := bot.GetWebhookInfo()
-	fmt.Printf("Webhook Info: %#v\n", info)
+	fmt.Printf("Webhook Inf: %#v\n", info)
 
 	// Get updates channel from webhook.
 	// Note: For one bot only one webhook allowed.
