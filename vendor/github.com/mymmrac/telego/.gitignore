@@ -1,0 +1,14 @@
+# IDEA folder
+.idea
+
+# VS Code folder
+.vscode
+
+# Generated fiels
+*.generated
+
+# Output fiels
+*.out
+
+# Binaries
+bin
